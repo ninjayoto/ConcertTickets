@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Concert Tickets</string>
+    <string name="title_activity_main">Main</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Select Group</string>
+
+    <string-array name="Groups">
+        <item>Dragonly</item>
+        <item>Nine Volt</item>
+        <item>Red Road</item>
+    </string-array>
+</resources>
